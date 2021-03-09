@@ -1,6 +1,7 @@
 # SudokuSolver
 
 Input your Sudoku and get the answer in a blink. Put "0" to represent Blank spaces.
+Just run the 'SudokuSolver.java' File 
 
 Below are the examples of input
 
