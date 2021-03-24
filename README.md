@@ -1,11 +1,12 @@
 # SudokuSolver
 
-Input your Sudoku and get the answer in a blink. Put "0" to represent Blank spaces.
-Just run the 'SudokuSolver.java' File 
+Input your Sudoku and get the answer in a blink.
+
+## How To Use
+
+Just run the 'SudokuSolver.java' File and input your Sudoku (Put "0" to represent Blank spaces)
 
 Below are the examples of input
-
-### World's Hardest sudoku
 
 8 0 0 0 0 0 0 0 0 \
 0 0 3 6 0 0 0 0 0 \
@@ -15,5 +16,14 @@ Below are the examples of input
 0 0 0 1 0 0 0 3 0 \
 0 0 1 0 0 0 0 6 8 \
 0 0 8 5 0 0 0 1 0 \
-0 9 0 0 0 0 4 0 0 \
+0 9 0 0 0 0 4 0 0 
 
+## Credits
+
+Made my Parthtrap (https://github.com/Parthtrap)
+
+Contributors -
+
+1) jyotirmay27 (https://github.com/jyotirmay27)
+2) ujjwaltyagi888 (https://github.com/ujjwaltyagi888)
+3) 
